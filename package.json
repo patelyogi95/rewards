@@ -25,7 +25,7 @@
     "ag-grid-enterprise": "^20.2.0",
     "ag-grid-react": "^20.2.0",
     "antd": "^3.16.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^10.0.3",
     "babel-jest": "23.6.0",
